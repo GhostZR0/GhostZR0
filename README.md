@@ -3,7 +3,7 @@
 
 - 🔭 I'm interested in **Frontend Development, Cybersecurity and Networking**
 
-- 🌱 I’m currently learning **React, Flutter**
+- 🌱 I’m currently learning **React, MongoDB**
 
 - 📫 How to reach me **trg2live@gmail.com**
 
