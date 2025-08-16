@@ -1,10 +1,3 @@
-<head><style>
-a {
-  text-decoration: none;
-}
-</style>
-</head>
-
 <h1 align="center">Hi 👋, I'm Tharindu Gunawardena</h1>
 <h3 align="center">I am from Open University of Sri Lanka, taking Computer Science 🇱🇰.</h3>
 
